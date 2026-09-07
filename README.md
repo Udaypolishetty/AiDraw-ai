@@ -1,4 +1,3 @@
-# AiDraw-ai
 # AirDraw AI
 
 Write or draw in the air using just your index finger — a webcam and computer
